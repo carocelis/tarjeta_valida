@@ -9,3 +9,4 @@ Verifico si cada par ya multiplicado es mayor o igual a 10 con un if, si lo es, 
 Modifico mi array dejando pares e impares adentro.
 Utilizo for para sumar todos los números al interior del array.
 Si el residuo del total dividido 10 es igual a 0 la tarjeta es válida, de lo contrario no lo es.
+![IMAGE](https://github.com/carocelis/tarjeta_valida/blob/master/Diagrama%20de%20flujo.png "DIAGRAMA DE FLUJO")
